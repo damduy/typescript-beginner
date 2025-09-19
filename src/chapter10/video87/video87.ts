@@ -1,3 +1,5 @@
+export {}
+
 console.log("Video 87 with typescript")
 
 
