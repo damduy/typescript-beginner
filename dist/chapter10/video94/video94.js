@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("Video 94");
 //optional
 const student1 = {
@@ -21,3 +19,4 @@ const printInfo = (people) => {
     console.log("Your name: ", people.name);
 };
 printInfo(person);
+export {};

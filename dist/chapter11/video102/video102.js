@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("Video 102");
 const duy = {
     id: 123,
@@ -9,3 +7,4 @@ const duy = {
 };
 let username = "damduy";
 username = 123;
+export {};
