@@ -11,10 +11,7 @@ name = "Duy";
 const age = undefined;
 
 const printInfo = (myName: null | string) => {
-    // if(myName)
-    // myName.toUpperCase();
-
-    (myName!).toUpperCase();
-
+    if(myName)
+        myName.toLocaleUpperCase();
     console.log("name = ", myName);
 }
